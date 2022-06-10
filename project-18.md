@@ -78,7 +78,6 @@ c. variables.tf
      ![Project18](images/image42.PNG)
      ![Project18](images/image43.PNG)
      ![Project18](images/image44.PNG)
-     ![Project18](images/image45.PNG)
      ![Project18](images/image455.PNG)
      ![Project18](images/image46.PNG)
      ![Project18](images/image47.PNG)
