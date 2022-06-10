@@ -17,17 +17,16 @@ e. RDS:- for creating database
 f. Security:- for creating security groups and their respective inbound rules
 
 g. VPC:- for creating VPC, public and private subnets
+       ![Project18](images/image1.PNG)
+       ![Project18](images/image2.PNG)
+       ![Project18](images/image3.PNG)
+       ![Project18](images/image4.PNG)
+       ![Project18](images/image5.PNG)
+       ![Project18](images/image6.PNG)
+       ![Project18](images/image7.PNG)
+       ![Project18](images/image8.PNG)
+       ![Project18](images/image9.PNG)
 
-
-     ![Project18](images/image1.PNG)
-     ![Project18](images/image2.PNG)
-     ![Project18](images/image3.PNG)
-     ![Project18](images/image4.PNG)
-     ![Project18](images/image5.PNG)
-     ![Project18](images/image6.PNG)
-     ![Project18](images/image7.PNG)
-     ![Project18](images/image8.PNG)
-     ![Project18](images/image9.PNG)
 
 3. I created a some files in my workspace namely;
 a. main.tf
@@ -37,6 +36,7 @@ c. variables.tf
      ![Project18](images/image10.PNG)
      ![Project18](images/image11.PNG)
      ![Project18](images/image12.PNG)
+
 
 4. I ran a terraform plan and it worked without issues
      
